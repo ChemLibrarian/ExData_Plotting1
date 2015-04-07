@@ -112,3 +112,4 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+## Functions added "plot1.R", ... "plot4.R" are based on the data file downloaded as "household_power_consumption.txt" under the same folder. And the functions can be sourced and can run in R to generate the corresponding .png file. 
